@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: detection-service
+server:
+  port: 9092
